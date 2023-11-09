@@ -1,0 +1,62 @@
+AI-Powered Pokemon Trainer Project
+Project Overview
+This project aims to develop an AI bot that learns to play the game "Pokemon Red" effectively. The bot will use reinforcement learning (RL) to master various aspects of the game, including battling, catching Pokemon, and completing the game. The project involves capturing game state data, processing it, and using it to train the AI model.
+
+Table of Contents
+Objectives
+Project Components
+Installation and Setup
+Usage
+Contributing
+License
+Acknowledgments
+Objectives
+Learn effective battling strategies.
+Catch all Pokemon.
+Complete the game.
+Map the game world, including interiors and exteriors.
+Develop an understanding of game mechanics and NPC interactions.
+Project Components
+1. Game State Processor
+Status: Partially Completed
+Description: Captures and processes the game state from the PyBoy emulator. Supports multiple instances.
+Components:
+Screen capture
+Video capture
+Frame processing
+Instance enumeration
+2. Reinforcement Learning Model
+Status: Not Started
+Description: The core AI model that will learn and make decisions based on the game state.
+Components:
+Reward system
+Action space definition
+State space analysis
+3. Data Management
+Status: In Progress
+Description: Manages the storage and retrieval of session data, logs, and JSON files.
+Components:
+Session folder organization
+Logging system
+JSON data handling
+4. AI Training and Evaluation
+Status: Not Started
+Description: Training the AI model with collected data and evaluating its performance.
+Components:
+Training algorithms
+Performance metrics
+Optimization techniques
+Installation and Setup
+(Instructions on how to install and set up the project.)
+
+Usage
+(Instructions on how to use the project, including running the AI bot, collecting data, and training the model.)
+
+Contributing
+(Guidelines for contributing to the project.)
+
+License
+(Information about the project's license.)
+
+Acknowledgments
+(Credits and acknowledgments for resources and contributions.)
