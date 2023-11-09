@@ -1,0 +1,21 @@
+stable_baselines3
+gymnasium
+gym
+scikit-image
+scikit-learn
+pandas
+tqdm
+torch
+einops
+hnswlib
+numpy
+opencv-python
+seaborn
+pyboy
+tensorboard
+wandb
+git+https://github.com/PWhiddy/mediapy.git # for rbga (alpha channel) support
+pygetwindow
+opencv-python
+pyboy
+mss
