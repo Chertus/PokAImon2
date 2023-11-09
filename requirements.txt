@@ -1,0 +1,6 @@
+pyboy
+numpy
+pandas
+tensorflow
+opencv-python
+# Add other necessary libraries
