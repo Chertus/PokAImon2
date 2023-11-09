@@ -1,0 +1,57 @@
+
+ChatGPT
+Certainly! Here's the list of project steps with the completed items labeled as "(COMPLETE)" instead of using a checkmark:
+
+Project Setup
+
+[COMPLETE] Create a project directory (basic implementation)
+[COMPLETE] Set up a GitHub repository (basic implementation)
+[COMPLETE] Initialize a virtual environment (basic implementation)
+[COMPLETE] Install necessary Python packages (basic implementation)
+[COMPLETE] Create a requirements.txt file (basic implementation)
+Emulator Integration
+
+[COMPLETE] Choose a Game Boy emulator (PyBoy) (basic implementation)
+[COMPLETE] Install and configure the emulator (basic implementation)
+[COMPLETE] Ensure the emulator loads the correct ROM (basic implementation)
+Data Collection and Game State
+
+[COMPLETE] Implement screen capture for game state (basic implementation)
+ Implement video capture for mapping (advanced implementation)
+[COMPLETE] Capture information such as player location, map, and inventory (basic implementation)
+ Develop logic to map game world (advanced implementation)
+ Capture battle information (advanced implementation)
+ Capture information inside buildings, caves, etc. (advanced implementation)
+AI Model
+
+[COMPLETE] Create an AI model structure (basic implementation)
+[COMPLETE] Implement a basic AI model skeleton (basic implementation)
+ Develop RL algorithm for AI learning (advanced implementation)
+ Implement rewards system (advanced implementation)
+ Incorporate move list and logic for actions (advanced implementation)
+ Consider status effects, stat changes, and special abilities (advanced implementation)
+Data Storage
+
+ Design and set up a structured database (advanced implementation)
+ Store captured data in a database (advanced implementation)
+ Develop data cleaning and merging processes (advanced implementation)
+Training and Optimization
+
+ Run training sessions with AI model (advanced implementation)
+ Fine-tune AI model based on results (advanced implementation)
+ Optimize training process and performance (advanced implementation)
+Multi-Session Training
+
+ Enable running multiple training sessions in parallel (advanced implementation)
+ Manage file integrity with multiple inputs (advanced implementation)
+Hardware Requirements
+
+ Determine hardware specs for running 1, 4, 8, and 12 training sessions (advanced implementation)
+Logging and Monitoring
+
+ Implement machine resource logging (advanced implementation)
+ Implement script execution information logging (advanced implementation)
+Documentation and Readme
+
+[COMPLETE] Create a README file with project steps (basic implementation)
+This format should work better for .txt compatibility. If you have any further questions or need assistance with any specific task, feel free to ask!
